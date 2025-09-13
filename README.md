@@ -10,11 +10,4 @@
 
 **Описание данных:** У нас есть один файл с данными — в нем представлены транзикции интернет-магазина «Пока все еще тут». Даны: дата заказа, идентификатор покупателя, идентификатор заказа, наименование товара, к-во товаров в заказе, цена товара.
 
-#используемые в проекте библиотеки
-import pandas as pd
-import datetime as dt
-from datetime import timedelta
-import matplotlib.pyplot as plt
-import numpy as np
-from scipy import stats as st
-import seaborn as sns
+#используемые в проекте библиотеки: pandas, datetime, timedelta, matplotlib.pyplot, numpy, scipy-stats, seaborn
